@@ -56,12 +56,6 @@ Na seção Python, compartilho scripts e notebooks utilizados em análises de da
 
 [Inclua qualquer outra informação relevante]
 
-## Sobre
-
-[Inclua uma breve descrição sobre você, sua paixão por análise de dados, e qualquer outra informação que queira compartilhar.]
-
-Sinta-se à vontade para expandir e personalizar conforme necessário. Espero que isso seja um bom ponto de partida para o seu README! Se precisar de mais alguma coisa, estou aqui.
-
 ## Contato
 
 Fique à vontade para entrar em contato comigo:
@@ -69,5 +63,15 @@ Fique à vontade para entrar em contato comigo:
 - Email: luizazevedo3212@hotmail.com
 - LinkedIn: [Luiz Antônio Azevedo](https://www.linkedin.com/in/luiz-ant%C3%B4nio-azevedo-34b38b23a/)
 - Kaggle: [Luiz Antônio Azevedo](https://www.linkedin.com/in/luiz-ant%C3%B4nio-azevedo-34b38b23a/)
+
+## Sobre
+
+Olá! Sou Luiz Antônio, um entusiasta da tecnologia e desenvolvedor júnior com paixão pela programação, especialmente voltada para o mundo dos dados. Atualmente, meu foco está em aprimorar minhas habilidades em Matemática, Python e Business Intelligence (BI), visando me especializar em Data Science.
+
+No meu percurso acadêmico, tenho me destacado em disciplinas de programação, e busco constantemente aprimorar minhas habilidades em análise de dados. Possuo experiência em diversas linguagens, como Python, Java, e ferramentas como Pandas, NumPy, Spark, além de proficiência em JavaScript, ReactJS, NodeJS, SQL, HTML, CSS, Github, Git, Bootstrap e Tailwind CSS.
+
+Estou animado com as possibilidades que a área de Data Science oferece e ansioso para aplicar minhas habilidades no desenvolvimento de soluções para desafios complexos.
+
+Sou comunicativo, criativo, e encaro cada desafio como uma oportunidade de aprendizado. Estou pronto para contribuir significativamente para o sucesso da sua empresa. Se você procura um desenvolvedor júnior apaixonado por programação e dedicado a aprender, ficarei feliz em fazer parte da sua equipe!
 
 ---

@@ -2,7 +2,10 @@
 
 Seja bem-vindo ao meu espaço digital onde compartilho projetos de análise de dados utilizando PowerBI e Python.
 
-![link_da_sua_imagem.jpg](https://images.unsplash.com/photo-1666875753105-c63a6f3bdc86?q=80&w=1473&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1666875753105-c63a6f3bdc86?q=80&w=1473&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Exemplo de Imagem" width="300" height="200">
+</p>
+
 
 ## Projetos
 
@@ -10,42 +13,37 @@ Seja bem-vindo ao meu espaço digital onde compartilho projetos de análise de d
 
 Nesta seção, destaco alguns dos dashboards e relatórios criados utilizando PowerBI. Essas visualizações fornecem insights valiosos a partir dos dados analisados.
 
-### [Nome do Dashboard 1]
+### [Relatório de Finanças - Bootcamp de Dados Santander](https://github.com/LuizAz3vedo/Relatorio-BootcampDados-Santander?tab=readme-ov-file)
 
-[Descrição breve do dashboard 1]
+O relatório apresenta uma análise abrangente dos dados financeiros, abordando aspectos como receitas, despesas, tendências de mercado e muito mais. Utilizando as funcionalidades do Power BI, buscamos extrair insights valiosos para tomada de decisões informadas.
 
 **Principais características:**
 - Gráficos interativos
 - Análise de tendências
 - Integração com fontes de dados externas
 
-[Inclua qualquer outra informação relevante]
+<p align="center">
+  <img src="https://github.com/LuizAz3vedo/Portf-lio/assets/99042862/8c8336ad-efca-4aab-baa8-148208dba79f" alt="Exemplo de Imagem" style="max-width: 100%;" height="auto">
+  <img src="https://github.com/LuizAz3vedo/Portf-lio/assets/99042862/75058077-62d8-4255-aaaa-118e809f2e5a" alt="Exemplo de Imagem" style="max-width: 100%;" height="auto">
+</p>
 
-### [Nome do Dashboard 2]
-
-[Descrição breve do dashboard 2]
-
-**Principais características:**
-- Drill-down em detalhes específicos
-- Comparação de métricas chave
-- Atualizações automáticas de dados
-
-[Inclua qualquer outra informação relevante]
 
 ## Python
 
 Na seção Python, compartilho scripts e notebooks utilizados em análises de dados, modelagem estatística e visualizações.
 
-### [Nome do Script/Notebook 1]
+### [Projeto de Análise de Dados de Xadrez](https://github.com/LuizAz3vedo/ChessProject)
 
-[Descrição breve do script/notebook 1]
+Este projeto tem como objetivo realizar uma análise de dados de partidas de xadrez, utilizando um dataset do Lichess com mais de 20.000 partidas. A análise inclui a criação de diversos gráficos para entender melhor o desempenho dos jogadores em relação a diferentes faixas de pontuação.
 
 **Principais bibliotecas utilizadas:**
 - Pandas
 - Numpy
-- Matplotlib/Seaborn
+- Dash
 
-[Inclua qualquer outra informação relevante]
+![Chess1](https://github.com/LuizAz3vedo/Portf-lio/assets/99042862/e4c26e35-13c4-4541-a8f4-bd9f6d078937)
+![Chess2](https://github.com/LuizAz3vedo/Portf-lio/assets/99042862/0183f766-f8c1-424c-b7d5-3c9ae1e70e31)
+![chess3](https://github.com/LuizAz3vedo/Portf-lio/assets/99042862/a49472a6-ddfb-4a50-b77b-35eeb7f1179f)
 
 ### [Nome do Script/Notebook 2]
 

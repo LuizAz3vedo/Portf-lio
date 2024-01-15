@@ -6,7 +6,6 @@ Seja bem-vindo ao meu espaço digital onde compartilho projetos de análise de d
   <img src="https://images.unsplash.com/photo-1666875753105-c63a6f3bdc86?q=80&w=1473&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Exemplo de Imagem" width="300" height="200">
 </p>
 
-
 ## Projetos
 
 ## PowerBI
@@ -45,24 +44,30 @@ Este projeto tem como objetivo realizar uma análise de dados de partidas de xad
 ![Chess2](https://github.com/LuizAz3vedo/Portf-lio/assets/99042862/0183f766-f8c1-424c-b7d5-3c9ae1e70e31)
 ![chess3](https://github.com/LuizAz3vedo/Portf-lio/assets/99042862/a49472a6-ddfb-4a50-b77b-35eeb7f1179f)
 
-### [Nome do Script/Notebook 2]
+### [Painel de Monitoramento Financeiro](https://github.com/LuizAz3vedo/MyBudget)
 
-[Descrição breve do script/notebook 2]
+Este projeto consiste em um painel para monitoramento financeiro, inspirado em um vídeo do canal Asimov Academy no YouTube. Permite que os usuários acompanhem suas despesas e receitas.
 
 **Principais bibliotecas utilizadas:**
-- Scikit-learn
-- TensorFlow
-- Outras bibliotecas relevantes
+- Pandas
+- Numpy
+- Dash
 
-[Inclua qualquer outra informação relevante]
+![mon1](https://github.com/LuizAz3vedo/Portf-lio/assets/99042862/fc89ddc7-024d-495e-9aab-ae15d4d8b7df)
+![mon2](https://github.com/LuizAz3vedo/Portf-lio/assets/99042862/0732e0ec-4b29-4325-a636-c553200f373c)
+![mon3](https://github.com/LuizAz3vedo/Portf-lio/assets/99042862/0304d673-00c8-4dd6-a804-f4173ef195a2)
 
-## Contato
+### [Projeto de Estruturas de Dados e Algoritmos](https://github.com/LuizAz3vedo/Estrutura-de-Dados)
 
-Fique à vontade para entrar em contato comigo:
+Este projeto é uma jornada pelo fascinante mundo das estruturas de dados e algoritmos, inspirado no livro "Entendendo Algoritmos: Um Guia Ilustrado". Aqui estão algumas das estruturas e algoritmos abordados:
 
-- Email: luizazevedo3212@hotmail.com
-- LinkedIn: [Luiz Antônio Azevedo](https://www.linkedin.com/in/luiz-ant%C3%B4nio-azevedo-34b38b23a/)
-- Kaggle: [Luiz Antônio Azevedo](https://www.linkedin.com/in/luiz-ant%C3%B4nio-azevedo-34b38b23a/)
+**Principais características:**
+- Estruturas de Dados
+- Algoritmos de Busca
+- Algoritmos de Caminho Mínimo
+- Algoritmos Gulosos e Programação Dinâmica
+
+Cada implementação neste projeto é uma oportunidade de aprendizado, uma aplicação prática dos conceitos aprendidos. Baseado no livro "Entendendo Algoritmos", este projeto busca não apenas codificar, mas compreender a essência por trás de cada algoritmo e estrutura de dados.
 
 ## Sobre
 
@@ -74,4 +79,11 @@ Estou animado com as possibilidades que a área de Data Science oferece e ansios
 
 Sou comunicativo, criativo, e encaro cada desafio como uma oportunidade de aprendizado. Estou pronto para contribuir significativamente para o sucesso da sua empresa. Se você procura um desenvolvedor júnior apaixonado por programação e dedicado a aprender, ficarei feliz em fazer parte da sua equipe!
 
+## Contato
+
+Fique à vontade para entrar em contato comigo:
+
+- Email: luizazevedo3212@hotmail.com
+- LinkedIn: [Luiz Antônio Azevedo](https://www.linkedin.com/in/luiz-ant%C3%B4nio-azevedo-34b38b23a/)
+- Kaggle: [Luiz Antônio Azevedo](https://www.linkedin.com/in/luiz-ant%C3%B4nio-azevedo-34b38b23a/)
 ---

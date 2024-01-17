@@ -10,8 +10,6 @@ Seja bem-vindo ao meu espaço digital onde compartilho projetos de análise de d
 
 ## PowerBI
 
-Nesta seção, destaco alguns dos dashboards e relatórios criados utilizando PowerBI. Essas visualizações fornecem insights valiosos a partir dos dados analisados.
-
 ### [Relatório de Finanças - Bootcamp de Dados Santander](https://github.com/LuizAz3vedo/Relatorio-BootcampDados-Santander?tab=readme-ov-file)
 
 O relatório apresenta uma análise abrangente dos dados financeiros, abordando aspectos como receitas, despesas, tendências de mercado e muito mais. Utilizando as funcionalidades do Power BI, buscamos extrair insights valiosos para tomada de decisões informadas.
@@ -28,8 +26,6 @@ O relatório apresenta uma análise abrangente dos dados financeiros, abordando 
 
 
 ## Python
-
-Na seção Python, compartilho scripts e notebooks utilizados em análises de dados, modelagem estatística e visualizações.
 
 ### [Projeto de Análise de Dados de Xadrez](https://github.com/LuizAz3vedo/ChessProject)
 
@@ -68,6 +64,15 @@ Este projeto é uma jornada pelo fascinante mundo das estruturas de dados e algo
 - Algoritmos Gulosos e Programação Dinâmica
 
 Cada implementação neste projeto é uma oportunidade de aprendizado, uma aplicação prática dos conceitos aprendidos. Baseado no livro "Entendendo Algoritmos", este projeto busca não apenas codificar, mas compreender a essência por trás de cada algoritmo e estrutura de dados.
+
+### [Usando o Scikit-learn](https://colab.research.google.com/drive/1moFFT4nlKk8-PBav6gvkY4YGM39DIe1r?usp=sharing)
+
+Utilizei o scikit-learn para prever a média salarial com base nas horas de estudo dedicadas. Realizei uma análise exploratória, preparei os dados, empreguei um modelo de regressão linear e efetuei a implantação do modelo.
+
+**Principais características:**
+- Pandas
+- Numpy
+- Scikit-learn
 
 ## Sobre
 

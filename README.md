@@ -76,9 +76,9 @@ Utilizei o scikit-learn para prever a média salarial com base nas horas de estu
 
 ## Sobre
 
-Olá! Sou Luiz Antônio, um entusiasta da tecnologia e desenvolvedor júnior com paixão pela programação, especialmente voltada para o mundo dos dados. Atualmente, meu foco está em aprimorar minhas habilidades em Matemática, Python e Business Intelligence (BI), visando me especializar em Data Science.
+Olá! Sou Luiz Antônio, um entusiasta da tecnologia e desenvolvedor júnior com paixão pela programação, especialmente voltada para o mundo dos dados. Atualmente, meu foco está em aprimorar minhas habilidades em Matemática,Machine Learning, Python e Business Intelligence (BI), visando me especializar em Data Science.
 
-No meu percurso acadêmico, tenho me destacado em disciplinas de programação, e busco constantemente aprimorar minhas habilidades em análise de dados. Possuo experiência em diversas linguagens, como Python, Java, e ferramentas como Pandas, NumPy, Spark, além de proficiência em JavaScript, ReactJS, NodeJS, SQL, HTML, CSS, Github, Git, Bootstrap e Tailwind CSS.
+No meu percurso acadêmico, tenho me destacado em disciplinas de programação, e busco constantemente aprimorar minhas habilidades em análise de dados. Possuo experiência em diversas linguagens, como Python, Java, e ferramentas como Pandas, NumPy, Spark,Sklearn além de proficiência em JavaScript, ReactJS, NodeJS, SQL, HTML, CSS, Github, Git, Bootstrap e Taiwind.
 
 Estou animado com as possibilidades que a área de Data Science oferece e ansioso para aplicar minhas habilidades no desenvolvimento de soluções para desafios complexos.
 

@@ -65,9 +65,9 @@ Este projeto é uma jornada pelo fascinante mundo das estruturas de dados e algo
 
 Cada implementação neste projeto é uma oportunidade de aprendizado, uma aplicação prática dos conceitos aprendidos. Baseado no livro "Entendendo Algoritmos", este projeto busca não apenas codificar, mas compreender a essência por trás de cada algoritmo e estrutura de dados.
 
-### [Usando o Scikit-learn](https://colab.research.google.com/drive/1moFFT4nlKk8-PBav6gvkY4YGM39DIe1r?usp=sharing)
+### [Estudos em IA](https://github.com/LuizAz3vedo/AI-Study)
 
-Utilizei o scikit-learn para prever a média salarial com base nas horas de estudo dedicadas. Realizei uma análise exploratória, preparei os dados, empreguei um modelo de regressão linear e efetuei a implantação do modelo.
+Este repositório contém uma coleção de notebooks, códigos e projetos relacionados aos meus estudos em Inteligência Artificial (IA) e Machine Learning (ML).
 
 **Principais características:**
 - Pandas

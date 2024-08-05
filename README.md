@@ -40,18 +40,17 @@ Este projeto tem como objetivo realizar uma análise de dados de partidas de xad
 ![Chess2](https://github.com/LuizAz3vedo/Portf-lio/assets/99042862/0183f766-f8c1-424c-b7d5-3c9ae1e70e31)
 ![chess3](https://github.com/LuizAz3vedo/Portf-lio/assets/99042862/a49472a6-ddfb-4a50-b77b-35eeb7f1179f)
 
-### [Painel de Monitoramento Financeiro](https://github.com/LuizAz3vedo/MyBudget)
+### [Painel de BI + Kmeans ](https://github.com/LuizAz3vedo/BI_kmeans)
 
-Este projeto consiste em um painel para monitoramento financeiro, inspirado em um vídeo do canal Asimov Academy no YouTube. Permite que os usuários acompanhem suas despesas e receitas.
+Este é um projeto desenvolvido durante o curso de PowerBI da DSA. O objetivo do projeto é utilizar o algoritmo K-means para construir um modelo de Machine Learning para segmentação de clientes e, em seguida, integrar esses resultados a um dashboard no PowerBI.
 
 **Principais bibliotecas utilizadas:**
 - Pandas
-- Numpy
-- Dash
+- Sklearn
+- Power BI
 
-![mon1](https://github.com/LuizAz3vedo/Portf-lio/assets/99042862/fc89ddc7-024d-495e-9aab-ae15d4d8b7df)
-![mon2](https://github.com/LuizAz3vedo/Portf-lio/assets/99042862/0732e0ec-4b29-4325-a636-c553200f373c)
-![mon3](https://github.com/LuizAz3vedo/Portf-lio/assets/99042862/0304d673-00c8-4dd6-a804-f4173ef195a2)
+![image](https://github.com/user-attachments/assets/7aa0b3d9-cad5-4090-99de-77ff7c970951)
+
 
 ### [Projeto de Estruturas de Dados e Algoritmos](https://github.com/LuizAz3vedo/Estrutura-de-Dados)
 

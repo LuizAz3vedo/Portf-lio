@@ -3,7 +3,7 @@
 Seja bem-vindo ao meu espaço digital onde compartilho projetos de análise de dados utilizando Power BI e Python.
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1666875753105-c63a6f3bdc86?q=80&w=1473&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Exemplo de Imagem" width="300" height="200">
+  <img src="https://images.unsplash.com/photo-1666875753105-c63a6f3bdc86?q=80&w=1473&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"  width="300" height="200">
 </p>
 
 ## Projetos
@@ -53,6 +53,7 @@ Este é um projeto desenvolvido durante o curso de PowerBI da DSA. O objetivo do
 
 
 ### [Projeto de Estruturas de Dados e Algoritmos](https://github.com/LuizAz3vedo/Estrutura-de-Dados)
+![Algorithms and Data Structures](https://github.com/user-attachments/assets/213f1a91-932e-4886-a427-7fc2885c5924)
 
 Este projeto é uma jornada pelo fascinante mundo das estruturas de dados e algoritmos, inspirado no livro "Entendendo Algoritmos: Um Guia Ilustrado". Aqui estão algumas das estruturas e algoritmos abordados:
 
@@ -65,13 +66,37 @@ Este projeto é uma jornada pelo fascinante mundo das estruturas de dados e algo
 Cada implementação neste projeto é uma oportunidade de aprendizado, uma aplicação prática dos conceitos aprendidos. Baseado no livro "Entendendo Algoritmos", este projeto busca não apenas codificar, mas compreender a essência por trás de cada algoritmo e estrutura de dados.
 
 ### [Estudos em IA](https://github.com/LuizAz3vedo/AI-Study)
+![intelligence brain and special patterns](https://github.com/user-attachments/assets/f365633d-09b9-4c26-bb94-20db563a303a)
 
 Este repositório contém uma coleção de notebooks, códigos e projetos relacionados aos meus estudos em Inteligência Artificial (IA) e Machine Learning (ML).
 
-**Principais características:**
-- Pandas
-- Numpy
+**Tecnologias Utilizadas**
+
+- Python
+- TensorFlow
+- PyTorch
 - Scikit-learn
+
+**Modelos**
+
+- Árvores de Decisão
+- Regressão Linear
+- Regressão Logistica
+- Regressão Polinomial 
+- Regressão Multipla 
+- Kmeans
+- Naive Bayes
+
+### [Grafos](https://github.com/LuizAz3vedo/graphs)
+![Understanding Graph Data Structure](https://github.com/user-attachments/assets/9a75a406-6622-44ba-a221-0cd521f28d0e)
+
+Este repositório contém implementações de algoritmos clássicos de grafos, desenvolvidos em Python no ambiente do Google Colaboratory (Colab).
+
+**Grafos**
+
+- Busca em Largura (BFS)
+- Busca em Profundidade (DFS)
+- Dijkstra
 
 ## Sobre
 
